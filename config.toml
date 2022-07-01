@@ -1,5 +1,17 @@
-baseURL = 'https://asdf1211.github.io/'
-languageCode = 'en-us'
-title = 'Frankie Ng'
+baseURL = "https://asdf1211.github.io/"
+languageCode = "en-us"
+title = ""
 theme = "papermod"
+googlefonts = ["Droid Sans", "Fira Mono"]
+fontbody = 'Droid Sans'
+fontcode = 'Fira Mono'
 
+[params]
+	mode="dark" # color-mode → light,dark or auto
+	featherIconsCDN=true
+	defaultTheme = 'dark'
+	subtitle = "Me talking to my future me."
+
+[params.homeInfoParams]
+	Title = "Hello there -c-"
+	Content = "My name is Frankie, this is me thinking about life and knowledge, discovering old lessons and learning new stuff."
