@@ -1,4 +1,4 @@
-baseURL = 'http://asdf1211.github.io/'
+baseURL = 'https://asdf1211.github.io/'
 languageCode = 'en-us'
 title = 'Frankie Ng'
 theme = "papermod"
