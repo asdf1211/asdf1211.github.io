@@ -15,3 +15,17 @@ fontcode = 'Fira Mono'
 [params.homeInfoParams]
 	Title = "Hello there -c-"
 	Content = "My name is Frankie, this is me thinking about life and knowledge, discovering old lessons and learning new stuff."
+	
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'about hugo'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/about/'
+  weight = -110
+[[menu.main]]
+  name = 'getting started'
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = '/getting-started/'
+  weight = -100
